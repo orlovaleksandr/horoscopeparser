@@ -1,0 +1,18 @@
+{
+    "name": "orlov_aleksander/horoscopeparser",
+    "description": "Horoscope parser from https://ignio.co m/static/r/public/export/xml.html.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Orlov Aleksander",
+            "email": "orlov_a@tut.by"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OrlovAleksander\\Horoscopeparser\\": "packages/orlovaleksandr/horoscopeparser/src"
+        }
+    },
+    "require": {}
+}
